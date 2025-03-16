@@ -65,7 +65,7 @@ MM atsako:
 .
 
 PR klausia:
-- ... ?
+- Vėjo greitis ?
 
 .
 
@@ -100,7 +100,7 @@ MM klausia:
 .
 
 PR atsako:
-- ... .
+- Nepadės .
 
 .
 
